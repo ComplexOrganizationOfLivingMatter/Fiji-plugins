@@ -230,7 +230,7 @@
         <enabled>false</enabled>
       </snapshots>
       <id>mvn-repo</id>
-      <url>https://rawgit.com/ComplexOrganizationOfLivingMatter/Fiji-plugins/master</url>
+      <url>https://github.com/ComplexOrganizationOfLivingMatter/Fiji-plugins/master</url>
     </repository>
     <repository>
       <id>imagej.public</id>
